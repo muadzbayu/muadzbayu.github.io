@@ -185,7 +185,6 @@ h1,h2,h3,h4,h5
     left:0;
     z-index:10;
     width:100%;
-    height:100%;
     padding-top: 120px;
     padding-bottom: 140px;
     text-align: center;
@@ -215,7 +214,7 @@ h1,h2,h3,h4,h5
 #home .btn, #tmp .btn
     {
         background: transparent;
-        border: 2px solid #ffffff;
+        border: 2px solid #ffd104;
         color: #ffffff;
         font-size: 16px;
         font-weight: bold;
@@ -439,3 +438,7 @@ footer hr
         color: #D43F52;
     }
 /* end social icon */
+
+@media screen {
+    
+}
